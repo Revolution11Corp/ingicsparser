@@ -1,0 +1,11 @@
+{
+  "name": "ingicsparser",
+  "version": "1.0.1",
+  "description": "Parses Ingics iBS01 beacon payload formats and converts them to JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
